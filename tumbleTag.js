@@ -18,4 +18,4 @@
 })( jQuery );
 
 // how you use it
-//$(".tag_list").tumbleTag('savesafe.tumblr.com', '5KShzHfHnwPMFxIsEDbdYgYsqIHeSENb7hJug8Mct6hVjguEMW');
+//$(".tag_list").tumbleTag('savesafe.tumblr.com', 'API KEY');
