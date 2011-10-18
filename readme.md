@@ -19,7 +19,7 @@ $(document).ready(function() {
 
 ```
 
-* The CSS used to style the tags are in the class .tag_list and .tag_cloud'
+* The CSS used to style the tags are in the class .tag_list and .tag_cloud. You are welcome to change these.
 
 ```
 .tag_cloud ul{
@@ -27,7 +27,7 @@ $(document).ready(function() {
    margin-bottom: 10px;
 }
 
-.tag_cloud .tag_list li {
+.tag_list li {
  margin: 5px;
  padding: 5px 5px 5px 5px;
  display: block;
@@ -36,7 +36,7 @@ $(document).ready(function() {
  border-radius:2px;
 }
 
-.tag_cloud .tag_list a {
+.tag_list a {
     font-size: 11px !important;
     font-family: "Helvetica Neue", Helvetica, san-serif;
     font-weight: lighter;
