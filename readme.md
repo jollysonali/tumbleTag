@@ -1,14 +1,14 @@
 tumbleTag
 =========
 
-A jQuery plugin that grabs all tags across all Tumblr posts and displays them as a list of unique tags. 
+A jQuery plugin that grabs all tags across all your Tumblr posts and displays them as a list of unique tags. 
 
 
 ##How it works
 
 * Get a Tumblr [API Key](http://www.tumblr.com/oauth/apps). 
 
-* Include the tumbleTag.js
+* Include tumbleTag.js
 
 * Call it like this:
 
