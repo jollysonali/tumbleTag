@@ -8,7 +8,7 @@ A jQuery plugin that grabs all tags across all Tumblr posts and displays them as
 
 * Get a Tumblr [API Key](http://www.tumblr.com/oauth/apps). 
 
-* Include the tumbleTag.js in the <head> You can also copy and paste the whole jQuery code within <script> </script> tags in your <head>
+* Include the tumbleTag.js
 
 * Call it like this:
 
